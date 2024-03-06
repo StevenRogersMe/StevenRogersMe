@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 🌱 I’m a visualization specialist, team player, creative css developer.<br/>In my professional career, I have worked as a front-end developer on a range of projects that make use of different JavaScript frameworks and libraries, including React/Next.JS. During this time, I have gained significant expertise in web visualization, particularly focusing on front-end development.
-I possess advanced skills and substantial experience in this area. With a meticulous attention to detail and a comprehensive understanding of data visualization techniques, I strive to create visually captivating and interactive web experiences.<br/>📫 How to reach me steven.rogers.me@gmail.com<br>⚡ And also I love cats. A lot.
+I possess advanced skills and substantial experience in this area. With a meticulous attention to detail and a comprehensive understanding of data visualization techniques, I strive to create visually captivating and interactive web experiences.<br/>📫 How to reach me steven.rogers.me@gmail.com<br>⚡ I like sports and also I love dogs. A lot.
 
 
 
